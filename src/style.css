@@ -1,0 +1,10 @@
+body {
+  background-color: azure;
+  color: lightseagreen;
+  margin: 0 auto;
+  padding: 10rem;
+  box-sizing: border-box;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
