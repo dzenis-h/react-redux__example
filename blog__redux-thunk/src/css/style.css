@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: whitesmoke;
+}
+
+.myList {
+  margin: 1rem auto;
+  padding: 2rem;
+  background-color: whitesmoke;
+  color: teal;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: 6px 4px #888888;
+  width: 600px;
+}
+
+.myHeader {
+  display: flex;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+  margin: 1rem auto;
+  padding: 2rem;
+  color: teal;
+  font-stretch: expanded;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px 1px black;
+  font-weight: 900;
+  font-size: 2.8rem;
+}
